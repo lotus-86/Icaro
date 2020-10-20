@@ -1,0 +1,28 @@
+
+body{
+  font-size: 35px;
+    background-image: url("Menu.svg");
+   background-repeat: no-repeat;
+   background-size:125%;
+  }
+
+  ul{
+    list-style-type: none;
+    padding-left: 5px;
+  }
+  a{
+    text-decoration: none;
+  }
+ul li#torna_indietro{
+  font-size: 35px;
+}
+ul#cavalli{
+  list-style-type: none;
+  padding-left: 5px;
+  font-size: 30px;
+}
+ul li#Simeone{
+  list-style-type: none;
+  padding-left: 5px;
+  font-size: 30px;
+}
